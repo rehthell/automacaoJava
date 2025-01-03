@@ -14,3 +14,5 @@ public class BaseTela {
         return app.findElement(By.xpath("//android.widget.Toast")).getText();
     }
 }
+
+
